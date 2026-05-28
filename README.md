@@ -23,3 +23,6 @@ for each venue, and debugging output — rather than written in one sitting.
 
 ## Venues covered
 CitySpark, HTML scraping, and Google Calendar — see code for full list.
+
+## Video tutorial
+[![Watch the demo](https://img.youtube.com/vi/v5Clzg81ylY/0.jpg)](https://www.youtube.com/watch?v=v5Clzg81ylY)
